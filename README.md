@@ -1,6 +1,6 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
-## REG.NO:212223230055
-## NAME: EZHIL NEVEDHA.K
+## REG.NO:212223110049
+## NAME: SHARON STEFFANI.F
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
 ## ALGORITHM
